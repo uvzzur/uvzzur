@@ -1,4 +1,4 @@
-# Execution turns a good idea into a great one.
+# Execution can turn a good idea into a great one.
 
 💡 Creative Manager at Wix  →  ⚡🧠 B.Sc. in Electrical Engineering & Neuroscience
 <!--
