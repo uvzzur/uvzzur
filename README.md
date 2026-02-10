@@ -1,5 +1,6 @@
-## Hi there 👋
+## Execution turns a good idea into a great one.
 
+💡 Creative Manager at Wix → ⚡🧠 Electrical Engineering & Neuroscience B.Sc.
 <!--
 **uvzzur/uvzzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
