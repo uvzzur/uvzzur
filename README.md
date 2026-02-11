@@ -7,10 +7,14 @@
 ## Featured:
 
 ### <img src="featured/SummaryTree_icon.png" width="20" /> SummaryTree – Expandable AI Summaries
-<img src="featured/Summarytree_demo.gif" alt="SummaryTree in action" width="500">
+<a href="https://github.com/uvzzur/SummaryTree">
+  <img src="featured/Summarytree_demo.gif" alt="SummaryTree in action" width="500">
+</a>
 
 ### <img src="featured/PLView_icon.png" width="20" /> PLView – 3D Neural Recordings Visualizer
-<img src="featured/PLView_demo.jpg" alt="PLView in action" width="500">
+<a href="https://github.com/uvzzur/PLView">
+  <img src="featured/PLView_demo.jpg" alt="PLView in action" width="500">
+</a>
 
 
 <!--
