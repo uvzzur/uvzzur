@@ -13,7 +13,7 @@
 
 ### <img src="featured/PLView_icon.png" width="20" /> PLView – 3D Neural Recordings Visualizer
 <a href="https://github.com/uvzzur/PLView">
-  <img src="featured/PLView_demo.jpg" alt="PLView in action" width="500">
+  <img src="featured/PLView_demo.gif" alt="PLView in action" width="500">
 </a>
 
 
