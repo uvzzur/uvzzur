@@ -1,4 +1,4 @@
-# Execution can turn a good idea into a great one.
+## <i>"Execution is what differentiates a good idea from a great one."</i>
 
 💡 Creative Manager at Wix  →  ⚡🧠 B.Sc. in Electrical Engineering & Neuroscience
 
